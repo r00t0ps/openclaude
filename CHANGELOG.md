@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.18.0](https://github.com/Gitlawb/openclaude/compare/v0.17.1...v0.18.0) (2026-06-06)
+
+
+### Features
+
+* add .gitattributes to enforce LF line endings ([#1550](https://github.com/Gitlawb/openclaude/issues/1550)) ([1c27957](https://github.com/Gitlawb/openclaude/commit/1c279577f9b294dbb02f4b8859c60fcaeb840ca6))
+
+
+### Bug Fixes
+
+* **agent-routing:** support API model aliases ([#1546](https://github.com/Gitlawb/openclaude/issues/1546)) ([9a342b6](https://github.com/Gitlawb/openclaude/commit/9a342b61fafce5908ac18f79275b70e51cae6ba4))
+
+
+### Performance Improvements
+
+* **attachments:** skip skill listings for utility forks ([#1545](https://github.com/Gitlawb/openclaude/issues/1545)) ([2bed184](https://github.com/Gitlawb/openclaude/commit/2bed1849b1a587bda2970cb83f20b326f794aec0))
+
 ## [0.17.1](https://github.com/Gitlawb/openclaude/compare/v0.17.0...v0.17.1) (2026-06-05)
 
 
